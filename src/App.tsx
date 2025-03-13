@@ -125,7 +125,7 @@ function App() {
               whileHover={{ scale: 1.05 }}
               src={habanaImage}
               alt="La Habana histórica"
-              className="w-full h-72 object-cover rounded-lg mb-4 shadow-lg"
+              className="w-full h-[21rem] object-cover rounded-lg mb-4 shadow-lg"
             />
             <div className="bg-blue-50 p-6 rounded-lg">
               <h4 className="font-semibold text-lg mb-2">Lecciones Históricas</h4>
